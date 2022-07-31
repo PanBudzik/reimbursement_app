@@ -2,7 +2,7 @@
 Webapp that calculate reimbursement
 
 ##Preparation
-
+######You need to:
 1.Import project to Eclipse IDE for Java EE Developers
 2.Window > Show view > Servers
 3.In tabs of lower menu choose "Servers"
@@ -14,7 +14,7 @@ Webapp that calculate reimbursement
 
 ##Use
 
-###A) User
+######A) User
 
 1. Log in with your login (user123) and password(123)
 2. Click "Add new reimbursement claim"
@@ -28,7 +28,7 @@ Webapp that calculate reimbursement
 8.You should be presented with summary of all expenses with option to go back.
 Also data is saved in database.
 
-###B) Administrator
+######B) Administrator
 
 1. Log in with your login (admin123) and password(123)
 2. In configuration panel you can change numbers perferable ones. After doing so click "Reconfigure"
